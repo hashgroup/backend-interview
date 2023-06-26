@@ -1,4 +1,4 @@
-# Backend Developer Interview - Hotel Booking System
+# BE Engineer Interview - Hotel Booking System
 
 You have been assigned the task of building a backend system for a booking engine that will be used by a hotel group.
 The system will be built using microservices to ensure scalability and ease of maintenance with a large team.
